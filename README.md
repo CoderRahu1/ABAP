@@ -1,6 +1,6 @@
 # SAP ABAP
 ## ABAP 80 DAYS 
-![alt text](https://drive.google.com/file/d/1W9hk4GUpAMvg3o8nYdxW3p9JJBtacKTy/view?usp=sharing)](https://drive.google.com)
+![alt text](https://drive.google.com/uc?export=view&id=1W9hk4GUpAMvg3o8nYdxW3p9JJBtacKTy)
 
 PROGRAMS : 
 
