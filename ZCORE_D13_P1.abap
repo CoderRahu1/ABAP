@@ -1,6 +1,9 @@
 REPORT ZCORE_D13_P1.
 
 """"""""""""""""""" NESTED STRUCTURES """""""""""""""""""""""""""""""""""""
+"""""" NESTED STRUCTURE - MEANS STRUCTURE WITHIN STRUCTURE.
+
+
 DATA : BEGIN OF emp,
          empno        TYPE i,
          ename(20)    TYPE c,
