@@ -1,0 +1,13 @@
+REPORT ZCORE_D21_P5.
+
+*********** DAY 21 PROG 5(FOR CALLING INCLUDE PROG 4) **************************
+
+
+
+FORMAT COLOR 1.
+WRITE :/ 'INSIDE PROG ZCORE_D21_P5'.
+INCLUDE ZCORE_D21_P4.
+X = 10.
+Y = 20.
+Z = X + Y.
+WRITE :/ 'SUM IS ',Z.
