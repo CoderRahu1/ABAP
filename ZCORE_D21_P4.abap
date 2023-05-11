@@ -1,0 +1,18 @@
+"""" NO KEYWORD SINCE ITS INCLUDE PROGRAM
+********* DAY 21 PROG 4 (INCLUDE PROGRAM) ****************
+"""" TOPICS - INCLUDE PROGRAM
+
+
+DATA : X TYPE I,
+       Y TYPE I,
+       Z TYPE I.
+
+TYPES : BEGIN OF GTY_EMP,
+          EMPNO TYPE I,
+          ENAME(20) TYPE C,
+          EMPDESIG(25) TYPE C,
+        END OF GTY_EMP.
+
+
+DATA : GT_EMP TYPE TABLE OF GTY_EMP,
+       GS_EMP TYPE GTY_EMP.
