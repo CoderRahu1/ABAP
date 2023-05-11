@@ -1,0 +1,25 @@
+************ INCLUDE PROGRAM THUS NO KEYWORD **************
+
+************ DAY 21 PROG 6 ************
+"""" TOPICS - INCLUDE PROGRAM
+
+DATA : X TYPE I VALUE 20,
+       Y TYPE I VALUE 10,
+       Z TYPE I.
+
+FORM SUB1.
+  Z = X + Y.
+  WRITE :/ 'SUM IS ',Z.
+ENDFORM.
+
+FORM SUB2.
+  Z = X - Y.
+  WRITE :/ 'DIFFERENCE IS ',Z.
+ENDFORM.
+
+
+MODULE ABC OUTPUT.
+  WRITE :/ 'INSIDE MODULE ABC'.
+
+
+ENDMODULE.
